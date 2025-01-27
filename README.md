@@ -53,3 +53,6 @@ This project involves the analysis of stock market data and the development of a
 ## 🚀 Results
 - Predicted stock prices with high accuracy (**R² = 0.9996** on test data).
 - Developed an intuitive dashboard for financial analysis.
+  ## License
+This project is licensed under the [MIT License](LICENSE).
+
