@@ -1,5 +1,4 @@
 # Coca-Cola-Stock-Data-Analysis-And-Price-Prediction Project
-# Stock Price Prediction and Analysis
 
 ## 📌 Project Overview
 This project involves the analysis of stock market data and the development of a machine learning model to predict stock prices. The project also includes an interactive Power BI dashboard for data visualization and insights.
